@@ -1,0 +1,51 @@
+html body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightgray;
+}
+
+
+
+header {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 30px;
+    font-size: 45pt;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+header img {
+    width: 90%;
+}
+
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    color: black;
+    font-weight: bold;
+    padding: 10px 40px;
+    font-size: 22pt
+}
+
+nav li {
+    display: inline;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+}
