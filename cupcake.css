@@ -1,0 +1,118 @@
+html body {
+    margin: 0;
+    padding 0;
+}
+
+
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+}
+
+header,
+nav,
+footer {
+    padding: 15px;
+}
+
+
+.head {
+    overflow: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+    width: 100%;
+    padding: 0;
+}
+
+Nav {
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+
+nav li {
+    display: inline;
+    text-decoration: none;
+    display: inline;
+    list-style: none;
+    list-style-type: none;
+}
+
+Section {
+    background-color: white;
+    overflow: auto;
+}
+
+aside {
+    width: 26%;
+    background-color: orangered;
+    float: left;
+    padding: 2%;
+    color: white;
+    text-decoration: none;
+}
+
+aside li {
+    list-style-type: none;
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px;
+    color: white;
+}
+
+aside a {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    font-size: 17px;
+}
+
+article {
+    width: 66%;
+    background-color: white;
+    float: right;
+    padding: 2%;
+}
+
+.buy {
+    width: 50%;
+    float: right;
+}
+
+
+
+footer {
+    background-color: lightseagreen;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+footer li {
+    display: inline;
+}
+
+footer a {
+    text-decoration: underline;
+    padding: 10px;
+
+}
+
+footer ul {
+    margin: 0;
+}
